@@ -28,7 +28,7 @@ class HeroDetails extends React.Component {
 
   fetchHero = async (id) => {
     console.log('fetching data ...');
-      const baseUrl = ' http://gateway.marvel.com:80';
+      const baseUrl =  'https://gateway.marvel.com';
 
       const path = '/v1/public/characters';
       
