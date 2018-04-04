@@ -14,12 +14,12 @@ yarn
 ## Runs the app in the development mode.
 
 ```sh
-npm start 
+npm run dev 
 ```
 
 Alternatively you may use `yarn`:
 
 ```sh
-yarn start
+yarn dev
 
 ```
