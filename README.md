@@ -1,5 +1,5 @@
 ## Demo
-[https://github.com/medslt/super_heroes_react_app](https://github.com/medslt/super_heroes_react_app)
+[https://superheroesreactapp-kwdbhdysnh.now.sh/](https://superheroesreactapp-kwdbhdysnh.now.sh/)
 
 ## Installing a Dependency
 
